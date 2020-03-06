@@ -9,3 +9,4 @@ More Information can be found here: http://panhandler.readthedocs.io
 
 This software is provided without support, warranty, or guarantee.
 Use at your own risk.
+[![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run)
