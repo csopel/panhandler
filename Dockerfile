@@ -49,4 +49,4 @@ RUN apk add --update --no-cache git curl build-base musl-dev python3-dev libffi-
 
 USER cnc_user
 EXPOSE 8080
-CMD ["/app/cnc/start_app.sh"]
+
